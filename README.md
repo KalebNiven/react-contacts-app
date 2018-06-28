@@ -1,9 +1,6 @@
 # Contacts Project
 
+An very simple app showing contact directory with images.
 
-## Project Setup
-
-* clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
-* install the dependencies - `npm install`
-
+#Screenshot
 ![alt text](https://github.com/KalebNiven/react-contacts-app/blob/master/screenshot.JPG)
