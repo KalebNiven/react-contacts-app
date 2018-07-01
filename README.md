@@ -2,5 +2,7 @@
 
 An very simple app showing contact directory with images using React.js
 
-#Screenshot
+### Screenshot
 ![alt text](https://github.com/KalebNiven/react-contacts-app/blob/master/screenshot.JPG)
+
+![alt text](https://github.com/KalebNiven/react-contacts-app/blob/master/screenshot%20with%20filter.JPG)
